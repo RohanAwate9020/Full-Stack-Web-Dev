@@ -1,0 +1,29 @@
+#out{
+    height: 200px;
+    width: 70px;
+    border: 2px solid black;
+}
+
+#red{
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+    border-radius: 50px;
+    border: 2px solid black;
+}
+#yellow{
+    background-color: yellow;
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+    border-radius: 50px;
+    border: 2px solid black;
+}
+#green{
+    background-color: green;
+    height: 50px;
+    width: 50px;
+    MARGIN: 10px;
+    border-radius: 50px;
+}

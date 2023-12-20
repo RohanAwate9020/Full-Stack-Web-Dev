@@ -1,0 +1,31 @@
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1{
+    color:#b91b27;
+}
+h3{
+    color: purple;
+}
+
+#myid{
+    color: brown;
+}
+
+p + h3{
+    text-decoration: red underline;
+}
+
+button:hover{
+    background-color: black;
+    color: white;
+}
+
+h3:hover{
+    text-decoration: none;
+}
+
+button:active{
+    background-color: hotpink;
+}

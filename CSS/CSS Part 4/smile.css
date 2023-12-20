@@ -1,0 +1,47 @@
+#bck{
+    background-color: white;
+    position: relative;
+    height: 300px;
+    width: 300px;
+    border: 2px solid black;
+    top:100px;
+    left: 100px;
+}
+
+#yellow{
+    background-color: rgb(253, 187, 7);
+    /* position: relative; */
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+#blk1{
+    background-color: rgb(224, 15, 15);
+    height:40px;
+    width:40px;
+    position: absolute;
+    top: 80px;
+    left:60px;
+    border-radius: 50%;
+}
+
+#blk2{
+    background-color: rgb(224, 15, 15);
+    height:40px;
+    width:40px;
+    position: absolute;
+    top: 80px;
+    left:200px;
+    border-radius: 50%;
+}
+
+#mouth{
+    background-color: rgb(9, 9, 2);
+    height: 70px;
+    width:170px;
+    position: relative;
+    top: 170px;
+    left: 65px;
+    border-radius: 0px 0px 50px 50px;
+}

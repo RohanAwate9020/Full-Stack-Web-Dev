@@ -1,0 +1,37 @@
+h2{
+    color: rgb(255, 72, 0);
+}
+h1 span{
+    color: goldenrod;
+}
+
+img{
+    width: 100%;
+    border-radius: 15px;
+}
+
+.card{
+    width: 400px;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 15px;
+    display: inline-block;
+}
+
+.pets{
+    display: flex;
+
+}
+
+
+h4 {
+    text-align: right;
+    color: #3c787e;
+  }
+
+  @media (max-width:400px){
+    #pets{
+        flex-wrap: wrap;
+    }
+  }
